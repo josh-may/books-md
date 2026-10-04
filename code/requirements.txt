@@ -1,0 +1,2 @@
+beautifulsoup4==4.15.0
+pypandoc_binary==1.17

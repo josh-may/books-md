@@ -3,3 +3,13 @@
 __pycache__/
 books/
 .DS_Store
+code/.kindle-test/
+
+# local inputs, exports, and experiments
+.env.*
+*.epub
+*.mobi
+*.azw
+*.azw3
+*.kfx
+code/start_kindle_test.sh
